@@ -1,4 +1,4 @@
-# harsh-portfolio
+# Harsh-portfolio
 harsh-portfolio/
 # Harsh Kant Vardhan - Portfolio
 
